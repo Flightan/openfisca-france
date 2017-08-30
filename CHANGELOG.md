@@ -1,5 +1,11 @@
 # Changelog
 
+### 18.9.1 - [#809](https://github.com/openfisca/openfisca-france/pull/809)
+
+* Changement mineur.
+* Détails :
+  - Référence la nouvelle adresse de la documentation technique
+
 ## 18.9.0 - [#798](https://github.com/openfisca/openfisca-france/pull/798)
 
 * Amélioration technique
@@ -348,7 +354,7 @@
 * Amélioration technique **non-rétrocompatible**
 * Détails :
     - Restreint les périodes acceptées par OpenFisca
-    - La liste des périodes autorisées est disponible dans la [documentation](https://doc.openfisca.fr/periodsinstants.html)
+    - La liste des périodes autorisées est disponible dans la [documentation](http://openfisca.org/doc/periodsinstants.html)
 
 <!-- -->
 
